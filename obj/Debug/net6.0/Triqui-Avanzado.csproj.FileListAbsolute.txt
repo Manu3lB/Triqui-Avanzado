@@ -1,0 +1,15 @@
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\bin\Debug\net6.0\Triqui-Avanzado.exe
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\bin\Debug\net6.0\Triqui-Avanzado.deps.json
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\bin\Debug\net6.0\Triqui-Avanzado.runtimeconfig.json
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\bin\Debug\net6.0\Triqui-Avanzado.dll
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\bin\Debug\net6.0\ref\Triqui-Avanzado.dll
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\bin\Debug\net6.0\Triqui-Avanzado.pdb
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\obj\Debug\net6.0\Triqui-Avanzado.csproj.AssemblyReference.cache
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\obj\Debug\net6.0\Triqui-Avanzado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\obj\Debug\net6.0\Triqui-Avanzado.AssemblyInfoInputs.cache
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\obj\Debug\net6.0\Triqui-Avanzado.AssemblyInfo.cs
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\obj\Debug\net6.0\Triqui-Avanzado.csproj.CoreCompileInputs.cache
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\obj\Debug\net6.0\Triqui-Avanzado.dll
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\obj\Debug\net6.0\ref\Triqui-Avanzado.dll
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\obj\Debug\net6.0\Triqui-Avanzado.pdb
+C:\Users\jmbarraganm\Desktop\Siesa\Node\TriquiAvanzado\Triqui-Avanzado\obj\Debug\net6.0\Triqui-Avanzado.genruntimeconfig.cache
